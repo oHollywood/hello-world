@@ -1,2 +1,5 @@
 # hello-world
-My first repository
+
+Yo!
+
+Hollywood here, I love animes, music and games.
